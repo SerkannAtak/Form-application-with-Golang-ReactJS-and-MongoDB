@@ -1,16 +1,16 @@
 # Form-application-with-Golang-React-and-MongoDB
 
-Requirements
+Requirements  
 
-for GOlang
+for GOlang  
 
-go get github.com/gorilla/mux
- go get go.mongodb.org/mongo-driver
+go get github.com/gorilla/mux  
+go get go.mongodb.org/mongo-driver  
 
 
-for Reactjs
+for Reactjs  
 
-Node.js
- npm create-react-app <yourAppName>
- npm run build
+Node.js  
+npm create-react-app <yourAppName>  
+npm run build  
 

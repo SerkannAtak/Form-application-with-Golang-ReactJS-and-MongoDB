@@ -3,8 +3,8 @@
 Requirements
 
 for GOlang
-go get github.com/gorilla/mux
-go get go.mongodb.org/mongo-driver
+\ngo get github.com/gorilla/mux
+\ngo get go.mongodb.org/mongo-driver
 
 for Reactjs
 Node.js

@@ -2,7 +2,7 @@
 
 Requirements  
 
-for GOlang  
+for Golang  
 ---------------------  
 go get github.com/gorilla/mux  
 go get go.mongodb.org/mongo-driver  

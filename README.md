@@ -11,7 +11,7 @@ go get go.mongodb.org/mongo-driver
 for Reactjs  
 ----------------------  
 Node.js  
-npm create-react-app <yourAppName>  
+npm create-react-app yourAppName  
 npm run build  
 
 
